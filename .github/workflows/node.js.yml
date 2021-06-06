@@ -34,7 +34,8 @@ jobs:
         -run: npm i
           echo Add other actions to build,
           echo test, and deploy your project.
-          node-version: [12.x]
-          -run index.js
+    
           
+          
+
           
